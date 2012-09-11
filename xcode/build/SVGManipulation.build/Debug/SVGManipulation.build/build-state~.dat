@@ -1,0 +1,210 @@
+TSVGManipulation
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app/Contents/Info.plist Info.plist
+cCpResource CinderApp.icns ./build/Debug/SVGManipulation.app/Contents/Resources/CinderApp.icns
+cCpResource ../resources/logoFrag1.svg ./build/Debug/SVGManipulation.app/Contents/Resources/logoFrag1.svg
+cProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SVGManipulation_Prefix-dkneyenmoovscvfpdhekkngecifb/SVGManipulation_Prefix.pch.pth SVGManipulation_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/SVGManipulation.build/Debug/SVGManipulation.build/Objects-normal/i386/SVGManipulationApp.o /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/../src/SVGManipulationApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000050224CA700000000000000AA
+t1344425127
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c00000000501022E800000000000024F0
+t1343234792
+s9456
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000501022E80000000000024C14
+t1343234792
+s150548
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c00000000501022E800000000000060B4
+t1343234792
+s24756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000501022E900000000000001E5
+t1343234793
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c00000000501022E9000000000000E920
+t1343234793
+s59680
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c00000000501015C300000000000069F0
+t1343231427
+s27120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000501015C30000000000006730
+t1343231427
+s26416
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000501015C70000000000081CB0
+t1343231431
+s531632
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000501015CF000000000002DAF0
+t1343231439
+s187120
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c00000000501015D300000000004A2D90
+t1343231443
+s4861328
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c00000000501016CB0000000000322E20
+t1343231691
+s3288608
+
+N/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/../resources/logoFrag1.svg
+c00000000504C06FD0000000000000320
+t1347159805
+s800
+
+N/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/../src/SVGManipulationApp.cpp
+c00000000504E9B5200000000000002DC
+t1347328850
+s732
+
+N/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app/Contents/Info.plist
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app/Contents/MacOS/SVGManipulation
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app/Contents/Resources/logoFrag1.svg
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/Objects-normal/i386/SVGManipulation.LinkFileList
+c00000000504E9B52000000000000009F
+t1347328850
+s159
+
+N/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/Objects-normal/i386/SVGManipulationApp.o
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/CinderApp.icns
+c00000000504E9943000000000001BEB5
+t1347328323
+s114357
+
+N/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/SVGManipulation_Prefix.pch
+c00000000504E99430000000000000093
+t1347328323
+s147
+i<Cocoa/Cocoa.h>
+
+N/var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SVGManipulation_Prefix-dkneyenmoovscvfpdhekkngecifb/SVGManipulation_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c00000000504E99430000000000000355
+t1347328323
+s853
+
+CBuild AST from /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/../src/SVGManipulationApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf94b77d2d2feb541^73d988d2d2feb541^---0#1#0#--18"Check dependencies36"B28545F3-A1BA-4BB2-A730-C993AE6F9BD8-
+
+CCompileC ./build/SVGManipulation.build/Debug/SVGManipulation.build/Objects-normal/i386/SVGManipulationApp.o /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/../src/SVGManipulationApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s369021650.692562
+e369021652.759711
+r0
+xCompileC
+x./build/SVGManipulation.build/Debug/SVGManipulation.build/Objects-normal/i386/SVGManipulationApp.o
+x/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/../src/SVGManipulationApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/../src/SVGManipulationApp.cpp:4:
+o../../../include/cinder/svg/SvgGl.h:134:13: error: 'gl::Texture' is an incomplete type
+o                gl::draw( gl::Texture( surface ), drawRect );
+o                          ^
+o../../../include/cinder/gl/gl.h:63:25: note: forward declaration of 'cinder::gl::Texture'
+o                 class VboMesh; class Texture;
+o                                      ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/../src/SVGManipulationApp.cpp95b5b1d2d2feb541^ff79c2d4d2feb541^-488"In file included from /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/../src/SVGManipulationApp.cpp:4:../../../include/cinder/svg/SvgGl.h:134:13: error: 'gl::Texture' is an incomplete type                gl::draw( gl::Texture( surface ), drawRect );                          ^../../../include/cinder/gl/gl.h:63:25: note: forward declaration of 'cinder::gl::Texture'                 class VboMesh; class Texture;                                      ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@35"'gl::Texture' is an incomplete type-369021652#18446744073709551615#0#2(2@114"In file included from /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/../src/SVGManipulationApp.cpp:4:-369021652#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@96"file://localhost/Users/synthresin/Desktop/cinder/apps/SVGManipulation/src/SVGManipulationApp.cpp0000000000000000^3#9#3#9#96#0#21"Clang LLVM 1.0 Notice--2@44"Forward declaration of 'cinder::gl::Texture'-369021652#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@71"file://localhost/Users/synthresin/Desktop/cinder/include/cinder/gl/gl.h0000000000000000^62#24#62#24#2208#0#21"Clang LLVM 1.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@75"file://localhost/Users/synthresin/Desktop/cinder/include/cinder/svg/SvgGl.h0000000000000000^133#12#133#12#4820#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@105"file://localhost/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/../src/SVGManipulationApp.cpp0000000000000000^3084"CompileC ./build/SVGManipulation.build/Debug/SVGManipulation.build/Objects-normal/i386/SVGManipulationApp.o ../src/SVGManipulationApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/SVGManipulation-generated-files.hmap -I/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/SVGManipulation-own-target-headers.hmap -I/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/SVGManipulation-all-target-headers.hmap -iquote /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/SVGManipulation-project-headers.hmap -iquote../../../include -iquote../include -I/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/build/Debug/include -I../../../boost -I/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/DerivedSources/i386 -I/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/DerivedSources -F/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/build/Debug -include /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SVGManipulation_Prefix-dkneyenmoovscvfpdhekkngecifb/SVGManipulation_Prefix.pch -MMD -MT dependencies -MF /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/Objects-normal/i386/SVGManipulationApp.d --serialize-diagnostics /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/Objects-normal/i386/SVGManipulationApp.dia -c /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/../src/SVGManipulationApp.cpp -o /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/Objects-normal/i386/SVGManipulationApp.o36"4A74D421-4FC3-4F39-9650-143053E12576-
+
+CCpResource ../resources/logoFrag1.svg ./build/Debug/SVGManipulation.app/Contents/Resources/logoFrag1.svg
+s369021650.555786
+e369021650.559188
+r1
+xCpResource
+x../resources/logoFrag1.svg
+x./build/Debug/SVGManipulation.app/Contents/Resources/logoFrag1.svg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy ./build/Debug/SVGManipulation.app/Contents/Resources/logoFrag1.svg97578ed2d2feb541^90bf90d2d2feb541^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app/Contents/Resources/logoFrag1.svg000000000080d041^484"CpResource ../resources/logoFrag1.svg ./build/Debug/SVGManipulation.app/Contents/Resources/logoFrag1.svg    cd /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/../resources/logoFrag1.svg /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app/Contents/Resources36"C7348BC7-0B4B-4DC2-BA43-B2A7205DFB48-
+
+CCpResource CinderApp.icns ./build/Debug/SVGManipulation.app/Contents/Resources/CinderApp.icns
+s369021650.555780
+e369021650.559298
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/SVGManipulation.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy ./build/Debug/SVGManipulation.app/Contents/Resources/CinderApp.icnsb0558ed2d2feb541^72c290d2d2feb541^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app/Contents/Resources/CinderApp.icns000000000080d041^461"CpResource CinderApp.icns ./build/Debug/SVGManipulation.app/Contents/Resources/CinderApp.icns    cd /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/CinderApp.icns /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app/Contents/Resources36"E3F54224-9739-4D25-9777-CA4D6F69E43C-
+
+CLd /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app/Contents/MacOS/SVGManipulation normal i386
+r0
+
+CProcessInfoPlistFile /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app/Contents/Info.plist Info.plist
+s369021650.541229
+e369021650.547752
+r1
+xProcessInfoPlistFile
+x/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist1f858bd2d2feb541^13b990d2d2feb541^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/Info.plist0000000000000000^471"ProcessInfoPlistFile ./build/Debug/SVGManipulation.app/Contents/Info.plist Info.plist    cd /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app/Contents/Info.plist36"C3F6B2A4-89E6-4987-B39F-DAC535A9E86E-
+
+CProcessPCH++ /Users/synthresin/Library/Developer/Xcode/DerivedData/SVGManipulation-anbmhnnypcibctfkahwjsplvdkpe/Index/PrecompiledHeaders/SVGManipulation_Prefix-ekyvseytggqhhcdpxlhzealvyeln_ast/SVGManipulation_Prefix.pch.pth SVGManipulation_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SVGManipulation_Prefix-dkneyenmoovscvfpdhekkngecifb/SVGManipulation_Prefix.pch.pth SVGManipulation_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s369021650.566726
+e369021650.686090
+r1
+xProcessPCH++
+x/var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SVGManipulation_Prefix-dkneyenmoovscvfpdhekkngecifb/SVGManipulation_Prefix.pch.pth
+xSVGManipulation_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile SVGManipulation_Prefix.pch414991d2d2feb541^09a5afd2d2feb541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/SVGManipulation_Prefix.pch0000000000000000^3035"ProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SVGManipulation_Prefix-dkneyenmoovscvfpdhekkngecifb/SVGManipulation_Prefix.pch.pth SVGManipulation_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/SVGManipulation-generated-files.hmap -I/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/SVGManipulation-own-target-headers.hmap -I/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/SVGManipulation-all-target-headers.hmap -iquote /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/SVGManipulation-project-headers.hmap -iquote../../../include -iquote../include -I/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/build/Debug/include -I../../../boost -I/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/DerivedSources/i386 -I/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/SVGManipulation.build/Debug/SVGManipulation.build/DerivedSources -F/Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/build/Debug --serialize-diagnostics /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SVGManipulation_Prefix-dkneyenmoovscvfpdhekkngecifb/SVGManipulation_Prefix.pch.dia -c /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/SVGManipulation_Prefix.pch -o /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SVGManipulation_Prefix-dkneyenmoovscvfpdhekkngecifb/SVGManipulation_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SVGManipulation_Prefix-dkneyenmoovscvfpdhekkngecifb/SVGManipulation_Prefix.pch.d36"DEA49ECE-E874-49EB-9647-D1FA6EA39CDA-
+
+CTouch /Users/synthresin/Desktop/cinder/apps/SVGManipulation/xcode/./build/Debug/SVGManipulation.app
+r0
+
